@@ -10,7 +10,7 @@ The final project is **mandatory**. It replaces the midterm exam and counts for 
 
 ## Important rules
 
-- **Group size:** minimum **2**, maximum **3 students**.
+- **Group size:** maximum **4 students**.
 - **Groups must be from the same lab section.** Mixing sections is **not allowed**.
 - **Absence on defense day = zero.** No make-up defenses.
 - Defense takes place during your **regular lab session**.
