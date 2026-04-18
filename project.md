@@ -69,13 +69,13 @@ The repository must be **public**, and the link submitted before your defense sl
 |------|--------|
 | **April 5** | Submit group & project choice via the Registration Form |
 | **Before your defense slot** | Submit GitHub repository link via the Submission Form |
-| **April 13–18** | Defense period — during your regular lab session |
+| **April 20–23** | Defense period — during your regular lab session |
 
 <br>
 
 ## Defense day
 
-The defense takes place during your **regular lab session** in the week of **April 13–18**. It is **mandatory** — absence results in a zero with no make-up.
+The defense takes place during your **regular lab session** in the week of **April 20–23**. It is **mandatory** — absence results in a zero with no make-up.
 
 During the defense you will be expected to:
 
